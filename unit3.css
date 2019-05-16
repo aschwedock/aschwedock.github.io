@@ -1,0 +1,34 @@
+head{
+	text-align:center;
+}
+
+h1, p {
+	font-family: Benton Sans, san-serif;
+	font-weight: normal;
+	text-decoration: underline;
+	text-transform: uppercase;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+ #slogan {font-weight: bold;
+ }
+
+h3 {font-size: 24px;
+
+}
+
+p { font-family: "Benton Sans", monospace;
+
+}
+
+.important {
+	font-size: 18px
+}
+
+a {
+	font-family: italic;
+	text-decoration: none;
+}
